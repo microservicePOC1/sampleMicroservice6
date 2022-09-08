@@ -9,7 +9,7 @@ public class SampleController {
     @GetMapping("/")
     public String sampleApi() {
 
-        return "Hello Sample Microservice 3";
+        return "Hello Sample Microservice 6";
     }
     
 }
